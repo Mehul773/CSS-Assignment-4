@@ -22,7 +22,7 @@ h1 {
     font-size: 1.3em;
 }
 
-/* First container  */
+/*  Use shorthand properties for container 1, 2 and 3  */
 .container1,
 .container2,
 .container3 {
